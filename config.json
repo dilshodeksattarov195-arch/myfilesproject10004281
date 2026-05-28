@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterstringify",
+        "uuid": 3792966,
+        "checksum": "11px6m"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
